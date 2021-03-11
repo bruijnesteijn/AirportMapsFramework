@@ -1,0 +1,65 @@
+[
+    {
+        "airportName" : "Amsterdam Airport Schiphol",
+        "airportShortName" : "Schiphol",
+        "airportCity" : "Amsterdam",
+        "airportCode" : "AMS",
+        "airportLongitude" : "4.773097",
+        "airportLatitude" : "52.308367",
+        "airportRadius" : "0.1"
+    },
+    {
+        "airportName" : "Charles de Gaulle Airport",
+        "airportShortName" : "Charles de Gaulle",
+        "airportCity" : "Paris",
+        "airportCode" : "CDG",
+        "airportLongitude" : "2.5703",
+        "airportLatitude" : "49.0111",
+        "airportRadius" : "0.2"
+    },
+    {
+        "airportName" : "Londen Heathrow Intl. Airport",
+        "airportShortName" : "London Heathrow",
+        "airportCity" : "London",
+        "airportCode" : "LHR",
+        "airportLongitude" : "-0.4644",
+        "airportLatitude" : "51.4674",
+        "airportRadius" : "0.2"
+    },
+    {
+        "airportName" : "John F. Kennedy Intl. Airport",
+        "airportShortName" : "John F. Kennedy",
+        "airportCity" : "New York",
+        "airportCode" : "JFK",
+        "airportLongitude" : "-73.7835",
+        "airportLatitude" : "40.644",
+        "airportRadius" : "0.2"
+    },
+    {
+        "airportName" : "San Francisco Intl. Airport",
+        "airportShortName" : "San Francisco",
+        "airportCity" : "San Francisco",
+        "airportCode" : "SFO",
+        "airportLongitude" : "-122.3863",
+        "airportLatitude" : "37.6163",
+        "airportRadius" : "0.2"
+    },
+    {
+        "airportName" : "Seattle-Tacoma Intl. Airport",
+        "airportShortName" : "Seattle-Tacoma",
+        "airportCity" : "Seattle",
+        "airportCode" : "SEA",
+        "airportLongitude" : "-122.3012",
+        "airportLatitude" : "47.4434",
+        "airportRadius" : "0.2"
+    },
+    {
+        "airportName" : "Vancouver Intl. Airport",
+        "airportShortName" : "Vancouver",
+        "airportCity" : "Vancouver",
+        "airportCode" : "YVR",
+        "airportLongitude" : "-123.1786",
+        "airportLatitude" : "49.1946",
+        "airportRadius" : "0.2"
+	}
+]
