@@ -1,6 +1,6 @@
 //
 //  MapViewController.swift
-//  Wrapper
+//  AirportMapsFramework
 //
 //  Created by Bart Bruijnesteijn on 17/07/2020.
 //
